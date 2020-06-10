@@ -11,7 +11,7 @@ h1 {
 
 body {
 	background-image: url("background.jpg");
-	background-color: grey;
+	background-color: #FEF5CA;
 
 }
 
@@ -31,7 +31,7 @@ p {
 
 section {
 	border:	1px solid black;
-	background-color: grey;
+	background-color: #00FF99;
 	width: 100%;
 	height: auto;
 	font-family: Helvetica;
@@ -101,13 +101,13 @@ section {
 .navbar-brand {
   font-size: 2em;
   border: 0 0 10px 10px;
-  color: #A9B3A9;
+  color: #FFFFFF;
 }
 
 #header-nav {
   border: 0;
   background-color: #FC5F06;
-  color: #A9B3A9;
+  color: #FFFFFF;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
@@ -119,11 +119,11 @@ section {
 }
 
 .nav-header {
-  background-color: #A9B3A9;
+  background-color: #FFFFFF;
 }
 
 .nav-brand {
-  color: #A9B3A9;
+  color: #FFFFFF;
   font-size: 1.5em;
 }
 
